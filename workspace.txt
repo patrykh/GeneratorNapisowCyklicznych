@@ -1,0 +1,38 @@
+if (bufor[0] == 'Z') //ZERUJ
+{
+	cout << "ZERUJ";
+}
+else if (bufor[0] == 'W') //WYPISZ
+{
+	cout << "WYPISZ";
+}
+else if (bufor[0] == 'O') //ODWROC
+{
+	cout << "ODWROC";
+}
+else
+
+
+USTAW
+
+
+else if (bufor[0] == 'P') //PRZESUN
+{
+	cout << "PRZESUN";
+}
+else if (bufor[0] == 'U') //USUN
+{
+	cout << "USUN";
+}
+else if (bufor[0] == 'D') //DOKLEJ
+{
+	cout << "DOKLEJ";
+}
+else if (bufor[0] == 'S') //SKOPIUJ
+{
+	cout << "SKOPIUJ";
+}
+else if (bufor[0] == 'M') //MIESZAJ
+{
+	cout << "MIESZAJ";
+}
